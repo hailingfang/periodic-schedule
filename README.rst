@@ -1,7 +1,7 @@
 Daily Periodic Schedule
 ================================
 
-This is a utility plot the daily schedual.
+This is a utility to plot the daily schedule.
 
 Requrements
 ++++++++++++++++++++++
@@ -18,7 +18,7 @@ Usage
 The Arguments of the Utitity
 -------------------------------
 
-You need to modify the :code:`schedule.tsv` file and give this file to the utility to plot.
+You need to modify the :code:`schedule.tsv` file and and provide it to the utility to generate the plot.
 
 .. code:: python
 
