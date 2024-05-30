@@ -1,4 +1,4 @@
-Daily Peirodic Schedule
+Daily Periodic Schedule
 ================================
 
 This is a utility plot the daily schedual.
