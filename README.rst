@@ -3,7 +3,7 @@ Daily Periodic Schedule
 
 This is a utility to plot the daily schedule.
 
-Requrements
+Requirements
 ++++++++++++++++++++++
 
 Python3
