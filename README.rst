@@ -86,7 +86,7 @@ Example
 
 .. code:: sh
 
-    python3 daily-peirodic-schedule.py \
+    python3 daily-periodic-schedule.py \
         --conf conf.toml \
         --out example-plot \
         schedule.tsv
